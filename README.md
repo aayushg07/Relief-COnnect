@@ -55,6 +55,7 @@ ReliefConnect is designed to be intuitive and easy to use. Navigate through the 
 - Disaster response updates
 - Volunteer sign-up
 - Relief organization information
+- Link to the deployed website : https://relief-connect.vercel.app/
 
 ## Contributing
 
